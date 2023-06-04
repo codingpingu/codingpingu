@@ -14,6 +14,7 @@ Projects |
 - © Surviv3Me 2022
 - © PinguAttack 2021
 - © Condival 2021/2022
+- © Plunzish Studios 2022/2023
 
 Currently Working on |
 
@@ -23,7 +24,7 @@ Currently Working on |
 
 About Me |
 
-- 16y old
+- 17y old
 - High Schooler
 - Germany
 - Single
