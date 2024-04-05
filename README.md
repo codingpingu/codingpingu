@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @codingpingu
-- 👀 I’m interested in football, baseball, Java, Python, (HTML [CSS,jQuery,jscript])
+- 👀 I’m interested in football, baseball, Java
 - 🌱 I’m currently learning for school
 - 💞 I´m not currently looking for collaboration 
 - 📫 How to reach me 
 
-- Discord > Pingu#6267
+- Discord > Ovyse
 
 
 
@@ -24,10 +24,9 @@ Currently Working on |
 
 About Me |
 
-- 17y old
+- 18y old
 - High Schooler
 - Germany
-- Single
 - interest in cars
 
 
