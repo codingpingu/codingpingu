@@ -20,7 +20,7 @@ Currently Working on |
 
 - School carrer
 - Minecraft Plugins
-- Designen of new sh*t
+- Design new sh*t
 
 About Me |
 
