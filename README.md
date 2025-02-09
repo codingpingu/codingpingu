@@ -16,6 +16,7 @@ Projects |
 - © Condival 2021/2022
 - © Plunzish Studios 2022/2023
 - © BEEPARTY.NET 2024
+- © ACREATE 2024/2025
 
 Currently Working on |
 
@@ -25,7 +26,7 @@ Currently Working on |
 
 About Me |
 
-- 18y old
+- 19y old
 - High Schooler
 - Germany
 - interest in cars
